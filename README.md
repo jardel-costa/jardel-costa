@@ -3,23 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>user github: jardel-costa</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
- 
-</head>
-<body>
-<div class="container" data-text="GitHub Profile">
-    <div class="profile-info">
-        <img src="./NGN-p.jpg" alt="Sua Foto de Perfil">
-        <div>
-            <h1>Jardel Costa</h1>
-            <p>GitHub: <a href="https://github.com/jardel-costa">github.com/jardel-costa</a></p>
-        </div>
-        <div class="profile-logo">
-            <img src="./profile.png" alt="Logo">                
-        </div>
-    </div>
         <div class="profile-bio">
             <h2>Bio</h2>
             <p id="bio-text">👋 Engenheiro de Soluções Tecnológicas 🚀</p>
